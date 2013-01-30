@@ -3,6 +3,6 @@
 main()
 {
 
-printf("Hello");
+printf("Hello :D");
 }
 
